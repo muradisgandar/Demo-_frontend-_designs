@@ -1,0 +1,168 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.pic{
+	width: 100%;
+	height: 750px;
+	background-image: url("SULE4751.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;	
+}
+.navbar{
+	width: 100%;
+	height:120px;
+	background:rgba(0,0,0,0.7);
+}
+h1{
+	color: white;
+	display: inline;
+	font-size: 25px;
+}
+
+.logo{
+	width: 30%;
+	height: 60px;
+	display: inline;
+	text-align: center;
+	float: left;
+	padding-top: 40px;
+}
+.mynav{
+	width: 65%;
+	height: 100px;
+	float: left;
+	font-size: 30px;
+}
+.firstnavbar{
+	float: right;
+}
+.uls{
+	list-style-type: none;
+	text-decoration: none;	
+}
+a{
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+
+}
+li{
+	float: left;
+	padding: 10px;
+	padding-right: 22px;
+	transition: 1s;
+	text-align: center;
+	height: 30px;
+}
+li:hover{
+   transform: scale(1.2);
+   border-radius: 10px;
+}
+.caption{
+	width: 40%;
+	height: 50px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 80px;
+	color: red;
+	margin-top: 100px;
+}
+#home{
+	width: 50%;
+	text-align: center;
+	height: 540px;
+	background-color: white;
+	margin-top: 50px;
+	display: inline;
+	float: left;
+	margin-left: 80px;
+}
+.frame{
+	width: 40%;
+	height: 420px;
+	background-color: white;
+	text-align: center;
+	float: left;
+	display: inline;
+	margin-top: 168px;
+	margin-bottom: 60px;
+	margin-left: -180px;
+	border-radius: 10px;
+}
+p{
+	font-size: 20px;
+	text-align: center;
+}
+h3{
+	font-size: 60px;
+	padding-top: 20px;
+}
+.button {
+   background-color: #fa333f;
+   color:white ;
+   padding: 15px 25px;
+   text-align: center;
+   font-size: 16px;
+   cursor: pointer;
+   border-radius: 10px;
+   border: 1px solid #fa333f;
+}
+.button:hover {
+   background-color: transparent;
+   color: red;
+}
+.button1 {
+   background-color:#f9f9ff ;
+   border: none;
+   color: black;
+   padding: 15px 25px;
+   text-align: center;
+   font-size: 16px;
+   cursor: pointer;
+   border-radius: 10px;
+  
+}
+.button1:hover {
+   background-color: #fa333f;
+   color: white;
+}
+
+
+
+	
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

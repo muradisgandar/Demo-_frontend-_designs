@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Pacifico', cursive!important;
+}
+.red{
+	background-color: red;
+	height: 300px;
+	color: white;
+}
+.mycontent{
+	padding: 60px;
+	transition: 1s;
+
+}
+.pic{
+	width:70px;
+	height: 70px;
+	border-radius: 50%;
+	background-color: grey;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;  
+}
+.mycontent:hover{
+	background-color: lightgrey;
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+
+.bg-light-color{
+	background-color: blue;
+}
+
+
