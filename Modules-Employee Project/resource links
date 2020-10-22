@@ -1,3 +1,7 @@
 https://github.com/typicode/json-server     Mock JSON server github link
 
+We install mock json server with this script: 
+
+npm install -g json-server
+
 json-server --watch fake-api/employee.json    - run json server and attach mock json db file to it
